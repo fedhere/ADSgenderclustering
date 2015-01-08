@@ -1,0 +1,6 @@
+# misc mess files
+*.swp
+*.swo
+*.vim
+# hidden keys
+adskey.txt
