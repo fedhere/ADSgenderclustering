@@ -2,3 +2,5 @@
 *.swp
 *.swo
 *.vim
+# hidden keys
+adskey.txt
