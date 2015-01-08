@@ -28,20 +28,17 @@ for entry in data[u"results"][u"docs"][:]:
         last, _, first = author.partition(',')
         if '.' in first:
             if len(first.partition('.')[0].strip()) > 1:
-                continue
+                pass
             else:
-                print("searching for: " + author)
                 search_result = ap.astropersons_search(last + ', ' + first)
                 if search_result is None:
-                    print("No match")
-                    continue
+                    pass
                 else:
-                    print("Found match!")
-                    elems = search_result.split(' ')
-                    author = elems[-1] + ', '
-                    for i in range(len(elems) - 1):
-                        author += ' ' + elems[i]
-                    print author
+                    elems = search_result.split()
+                    if elems[0][0] == first.strip()[0]:
+                        author = elems[-1] + ', '
+                        for i in range(len(elems) - 1):
+                            author += ' ' + elems[i]
         full_names.append(author)
 
 # save the data to a pickle file
