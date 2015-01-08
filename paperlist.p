@@ -1,8 +1,8 @@
 (lp1
 (dp2
-Vid
+Vbibcode
 p3
-V10666533
+V2015qgee.book....5J
 p4
 sVauthor
 p5
@@ -11,530 +11,761 @@ VJervis, Dylan
 p7
 aVThywissen, Joseph H.
 p8
-asVbibcode
+asVaff
 p9
-V2015qgee.book....5J
-p10
-sVcitation_count
+(lp10
+VDepartment of Physics, University of Toronto, M5R 2K7, Canada
 p11
-I0
-sVtitle
+aV-
+asVtitle
 p12
 (lp13
 VMaking an Ultracold Gas
 p14
-asa(dp15
-Vauthor
+asVcitation_count
+p15
+I0
+sVid
 p16
-(lp17
-VHsiao, Wen-Tse
-p18
-aVTseng, Shih-Feng
+V10666533
+p17
+sa(dp18
+Vauthor
 p19
-aVChung, Chien-Kai
-p20
-aVChiang, Donyau
+(lp20
+VHsiao, Wen-Tse
 p21
-aVHuang, Kuo-Cheng
+aVTseng, Shih-Feng
 p22
-aVLin, Keh-Moh
+aVChung, Chien-Kai
 p23
-aVLi, Liang-Yan
+aVChiang, Donyau
 p24
-aVChen, Ming-Fei
+aVHuang, Kuo-Cheng
 p25
-asVbibcode
+aVLin, Keh-Moh
 p26
-V2015OptLT..68...41H
+aVLi, Liang-Yan
 p27
-sVid
+aVChen, Ming-Fei
 p28
-V10706979
+asVaff
 p29
-sVtitle
-p30
-(lp31
-VEffect on structural, optical and electrical properties of aluminum-doped zinc oxide films using diode laser annealing
+(lp30
+VInstrument Technology Research Center, National Applied Research Laboratories, No. 20, R&D Rd. VI, Hsinchu Science Park, Hsinchu City 30076, Taiwan
+p31
+aVInstrument Technology Research Center, National Applied Research Laboratories, No. 20, R&D Rd. VI, Hsinchu Science Park, Hsinchu City 30076, Taiwan
 p32
-asa(dp33
-Vauthor
+aVInstrument Technology Research Center, National Applied Research Laboratories, No. 20, R&D Rd. VI, Hsinchu Science Park, Hsinchu City 30076, Taiwan
+p33
+aVInstrument Technology Research Center, National Applied Research Laboratories, No. 20, R&D Rd. VI, Hsinchu Science Park, Hsinchu City 30076, Taiwan
 p34
-(lp35
-VXue, Yan Ling
+aVInstrument Technology Research Center, National Applied Research Laboratories, No. 20, R&D Rd. VI, Hsinchu Science Park, Hsinchu City 30076, Taiwan
+p35
+aVDepartment of Mechanical Engineering, Southern Taiwan University, No. 1, Nan-Tai Street, Yungkang Dist., Tainan 71005, Taiwan
 p36
-aVLiu, Wei
+aVDepartment of Mechanical Engineering, Southern Taiwan University, No. 1, Nan-Tai Street, Yungkang Dist., Tainan 71005, Taiwan
 p37
-aVGu, Yiwei
+aVDepartment of Mechatronics Engineering, National Changhua University of Education, No. 1, Jin-De Road, Changhua 50007, Taiwan
 p38
-aVZhang, Youjun
+asVbibcode
 p39
-asVbibcode
+V2015OptLT..68...41H
 p40
-V2015OptLT..68...28X
+sVid
 p41
-sVid
+V10706979
 p42
-V10666221
+sVtitle
 p43
-sVtitle
-p44
-(lp45
-VLight storage in a cylindrical waveguide with metamaterials
-p46
-asa(dp47
+(lp44
+VEffect on structural, optical and electrical properties of aluminum-doped zinc oxide films using diode laser annealing
+p45
+asa(dp46
 Vauthor
-p48
-(lp49
-VZhu, Xiaoyang
+p47
+(lp48
+VXue, Yan Ling
+p49
+aVLiu, Wei
 p50
-aVZhu, Li
+aVGu, Yiwei
 p51
-aVChen, Hejuan
+aVZhang, Youjun
 p52
-aVLi, Zongan
+asVaff
 p53
-aVZhang, Weiyi
-p54
-asVbibcode
+(lp54
+VDepartment of Communications Engineering, East China Normal University, Shanghai 200241, China
 p55
-V2015OptLT..68...23Z
+aVDepartment of Communications Engineering, East China Normal University, Shanghai 200241, China
 p56
-sVid
+aVDepartment of Communications Engineering, East China Normal University, Shanghai 200241, China
 p57
-V10666207
+aVSchool of Information Engineering, Shanghai Maritime University, Shanghai 201306, China
 p58
-sVtitle
+asVbibcode
 p59
-(lp60
-VFabrication of high numerical aperture micro-lens array based on drop-on-demand generating of water-based molds
+V2015OptLT..68...28X
+p60
+sVid
 p61
-asa(dp62
-Vauthor
+V10666221
+p62
+sVtitle
 p63
 (lp64
-VWang, Caili
+VLight storage in a cylindrical waveguide with metamaterials
 p65
-aVNiu, Yanxiong
-p66
-aVLiu, Wenwen
-p67
-aVNiu, Haisha
-p68
-aVXu, Bing
-p69
-aVMan, Da
-p70
-asVbibcode
-p71
-V2015OptLT..68...18W
-p72
-sVid
-p73
-V10666194
-p74
-sVtitle
-p75
-(lp76
-VA theoretical and experimental investigation for wavelength switchable TmYAG laser modulated by Tm:YAG crystal length
-p77
-asa(dp78
-Vid
-p79
-V10599467
-p80
-sVauthor
-p81
-(lp82
-VWang, J.
-p83
-asVbibcode
-p84
-V2015NewA...37...15W
-p85
-sVcitation_count
-p86
-I0
-sVtitle
-p87
-(lp88
-VRole of feedback in AGN-host coevolution: A study from partially obscured active galactic nuclei
-p89
-asa(dp90
+asa(dp66
 Vauthor
-p91
-(lp92
-VMartin, Jérôme
-p93
-aVPlain, Jérôme
-p94
+p67
+(lp68
+VZhu, Xiaoyang
+p69
+aVZhu, Li
+p70
+aVChen, Hejuan
+p71
+aVLi, Zongan
+p72
+aVZhang, Weiyi
+p73
+asVaff
+p74
+(lp75
+VMicrosystem Lab, School of Mechanical Engineering, Nanjing University of Science and Technology, Nanjing, Jiangsu, China
+p76
+aVMicrosystem Lab, School of Mechanical Engineering, Nanjing University of Science and Technology, Nanjing, Jiangsu, China
+p77
+aVMicrosystem Lab, School of Mechanical Engineering, Nanjing University of Science and Technology, Nanjing, Jiangsu, China
+p78
+aVMicrosystem Lab, School of Mechanical Engineering, Nanjing University of Science and Technology, Nanjing, Jiangsu, China
+p79
+aVMicrosystem Lab, School of Mechanical Engineering, Nanjing University of Science and Technology, Nanjing, Jiangsu, China
+p80
 asVbibcode
-p95
-V2015JPhD...48r4002M
-p96
+p81
+V2015OptLT..68...23Z
+p82
 sVid
+p83
+V10666207
+p84
+sVtitle
+p85
+(lp86
+VFabrication of high numerical aperture micro-lens array based on drop-on-demand generating of water-based molds
+p87
+asa(dp88
+Vauthor
+p89
+(lp90
+VWang, Caili
+p91
+aVNiu, Yanxiong
+p92
+aVLiu, Wenwen
+p93
+aVNiu, Haisha
+p94
+aVXu, Bing
+p95
+aVMan, Da
+p96
+asVaff
 p97
-V10705866
-p98
-sVtitle
+(lp98
+VSchool of Instrument Science and Optoelectronic Engineering, Beihang University, Beijing 100191, China
 p99
-(lp100
-VFabrication of aluminium nanostructures for plasmonics
+aVSchool of Instrument Science and Optoelectronic Engineering, Beihang University, Beijing 100191, China
+p100
+aVSchool of Instrument Science and Optoelectronic Engineering, Beihang University, Beijing 100191, China
 p101
-asa(dp102
-Vid
+aVSchool of Instrument Science and Optoelectronic Engineering, Beihang University, Beijing 100191, China
+p102
+aVSchool of Instrument Science and Optoelectronic Engineering, Beihang University, Beijing 100191, China
 p103
-V10666761
+aVSchool of Instrument Science and Optoelectronic Engineering, Beihang University, Beijing 100191, China
 p104
-sVauthor
-p105
-(lp106
-VZhao, Anxin
-p107
-aVTang, Xiaojun
-p108
-aVLi, Wendong
-p109
-aVZhang, Zhonghua
-p110
-aVLiu, Junhua
-p111
 asVbibcode
-p112
-V2015SpecL..48..274Z
-p113
-sVcitation_count
-p114
-I0
+p105
+V2015OptLT..68...18W
+p106
+sVid
+p107
+V10666194
+p108
 sVtitle
+p109
+(lp110
+VA theoretical and experimental investigation for wavelength switchable TmYAG laser modulated by Tm:YAG crystal length
+p111
+asa(dp112
+Vbibcode
+p113
+V2015NewA...37...15W
+p114
+sVauthor
 p115
 (lp116
-VThe Piecewise Two Points Autolinear Correlated Correction Method for Fourier Transform Infrared Baseline Wander
+VWang, J.
 p117
-asa(dp118
-Vauthor
-p119
-(lp120
-VWang, Yan
+asVaff
+p118
+(lp119
+VNational Astronomical Observatories, Chinese Academy of Sciences, 20A, Datun Road, Chaoyang District, Beijing 100012, China
+p120
+asVtitle
 p121
-aVBai, Wenying
-p122
-aVCui, Zhanchen
+(lp122
+VRole of feedback in AGN-host coevolution: A study from partially obscured active galactic nuclei
 p123
-asVbibcode
+asVcitation_count
 p124
-V2015SpecL..48..259W
-p125
+I0
 sVid
+p125
+V10599467
 p126
-V10666788
-p127
-sVtitle
+sa(dp127
+Vauthor
 p128
 (lp129
-VFourier Transform Infrared Spectroscopic Study of Pesticide Microcapsules Influenced by Formaldehyde to Urea Ratio
+VMartin, Jérôme
 p130
-asa(dp131
-Vauthor
+aVPlain, Jérôme
+p131
+asVaff
 p132
 (lp133
-VKumar Chandel, Surjeet
+VInstitut Charles Delaunay, LNIO, Université de Technologie de Troyes, CNRS UMR 6281, Troyes, France
 p134
-aVKumar, Arun
+aVInstitut Charles Delaunay, LNIO, Université de Technologie de Troyes, CNRS UMR 6281, Troyes, France
 p135
-aVAhluwalia, P. K.
-p136
-aVSharma, Raman
-p137
 asVbibcode
-p138
-V2015PhyE...68....1K
-p139
+p136
+V2015JPhD...48r4002M
+p137
 sVid
-p140
-V10707139
-p141
+p138
+V10705866
+p139
 sVtitle
+p140
+(lp141
+VFabrication of aluminium nanostructures for plasmonics
 p142
-(lp143
-VA first principle study of encapsulated and functionalized silicon nanotube of chirality (6,6) with monoatomically thin metal wires of Ag, Au and Cu
+asa(dp143
+Vbibcode
 p144
-asa(dp145
-Vauthor
+V2015SpecL..48..274Z
+p145
+sVauthor
 p146
 (lp147
-VKwiatkowski, Jacek
+VZhao, Anxin
 p148
-aVJabczynski, Jan Karol
+aVTang, Xiaojun
 p149
-aVZendzian, Waldemar
+aVLi, Wendong
 p150
-asVbibcode
+aVZhang, Zhonghua
 p151
-V2015OptLT..67...93K
+aVLiu, Junhua
 p152
-sVid
+asVaff
 p153
-V9118570
-p154
-sVtitle
+(lp154
+V-
+aV-
+aV-
+aV-
+aV-
+asVtitle
 p155
 (lp156
-VAn efficient continuous-wave and Q-switched single-pass two-stage Ho:YLF MOPA system
+VThe Piecewise Two Points Autolinear Correlated Correction Method for Fourier Transform Infrared Baseline Wander
 p157
-asa(dp158
-Vauthor
-p159
-(lp160
-VYang, L. M.
-p161
-aVPan, C. Y.
-p162
-aVLu, F. P.
-p163
-aVChang, C. W.
-p164
-aVFeng, S. W.
-p165
-aVTu, L. W.
-p166
-asVbibcode
-p167
-V2015OptLT..67...72Y
-p168
-sVid
-p169
-V9118541
-p170
-sVtitle
-p171
-(lp172
-VAnti-reflection sub-wavelength structures design for InGaN-based solar cells performed by the finite-difference-time-domain (FDTD) simulation method
-p173
-asa(dp174
-Vauthor
-p175
-(lp176
-VWojtanowski, Jacek
-p177
-aVZygmunt, Marek
-p178
-aVMuzal, Micha\u0142
-p179
-aVKnysak, Piotr
-p180
-aVM\u0142odzianko, Andrzej
-p181
-aVGawlikowski, Andrzej
-p182
-aVDrozd, Tadeusz
-p183
-aVKopczy\u0144ski, Krzysztof
-p184
-aVMierczyk, Zygmunt
-p185
-aVKaszczuk, Miros\u0142awa
-p186
-aVTraczyk, Maciej
-p187
-aVGietka, Andrzej
-p188
-aVPiotrowski, Wies\u0142aw
-p189
-aVJakubaszek, Marcin
-p190
-aVOstrowski, Roman
-p191
-asVbibcode
-p192
-V2015OptLT..67...25W
-p193
-sVid
-p194
-V9118495
-p195
-sVtitle
-p196
-(lp197
-VPerformance verification of a LIF-LIDAR technique for stand-off detection and classification of biological agents
-p198
-asa(dp199
-Vauthor
-p200
-(lp201
-VGuo, Xiaoyang
-p202
-aVLu, Jun
-p203
-aVLi, Wenkai
-p204
-aVXu, Yi
-p205
-aVLu, Xiaoming
-p206
-aVLeng, Yuxin
-p207
-aVLi, Ruxin
-p208
-asVbibcode
-p209
-V2015OptLT..67....8G
-p210
-sVid
-p211
-V9118503
-p212
-sVtitle
-p213
-(lp214
-VChirped pulse Raman amplification in Ba(NO<SUB>3</SUB>)<SUB>2</SUB> crystals
-p215
-asa(dp216
-Vauthor
-p217
-(lp218
-VTamrin, K. F.
-p219
-aVNukman, Y.
-p220
-aVChoudhury, I. A.
-p221
-aVShirley, S.
-p222
-asVbibcode
-p223
-V2015OptLE..67...57T
-p224
-sVid
-p225
-V10666124
-p226
-sVtitle
-p227
-(lp228
-VMultiple-objective optimization in precision laser cutting of different thermoplastics
-p229
-asa(dp230
-Vauthor
-p231
-(lp232
-VGhazali, Kamarul Hawari
-p233
-aVJadin, Mohd Shawal
-p234
-aVJie, Ma
-p235
-aVXiao, Rui
-p236
-asVbibcode
-p237
-V2015OptLE..67...49G
-p238
-sVid
-p239
-V10666129
-p240
-sVtitle
-p241
-(lp242
-VNovel automatic eye detection and tracking algorithm
-p243
-asa(dp244
-Vauthor
-p245
-(lp246
-VLiu, Kun
-p247
-aVZhao, Weixiong
-p248
-aVWang, Lei
-p249
-aVtan, Tu
-p250
-aVWang, Guishi
-p251
-aVZhang, Weijun
-p252
-aVGao, Xiaoming
-p253
-aVChen, Weidong
-p254
-asVbibcode
-p255
-V2015OptCo.340..126L
-p256
-sVid
-p257
-V10706749
-p258
-sVtitle
-p259
-(lp260
-VQuartz-enhanced photoacoustic spectroscopy of HCN from 6433 to 6613 cm<SUP>-1</SUP>
-p261
-asa(dp262
-Vid
-p263
-V2085852
-p264
-sVauthor
-p265
-(lp266
-VSkopal, A.
-p267
-asVbibcode
-p268
-V2015NewA...36..139S
-p269
-sVcitation_count
-p270
+asVcitation_count
+p158
 I0
+sVid
+p159
+V10666761
+p160
+sa(dp161
+Vauthor
+p162
+(lp163
+VWang, Yan
+p164
+aVBai, Wenying
+p165
+aVCui, Zhanchen
+p166
+asVaff
+p167
+(lp168
+V-
+aV-
+aV-
+asVbibcode
+p169
+V2015SpecL..48..259W
+p170
+sVid
+p171
+V10666788
+p172
 sVtitle
+p173
+(lp174
+VFourier Transform Infrared Spectroscopic Study of Pesticide Microcapsules Influenced by Formaldehyde to Urea Ratio
+p175
+asa(dp176
+Vauthor
+p177
+(lp178
+VKumar Chandel, Surjeet
+p179
+aVKumar, Arun
+p180
+aVAhluwalia, P. K.
+p181
+aVSharma, Raman
+p182
+asVaff
+p183
+(lp184
+VDepartment of Physics, Himachal Pradesh University, Shimla, Himachal Pradesh 171005, India
+p185
+aVDepartment of Physics, Govt. College Banjar, Distt. Kullu, Himachal Pradesh 175123, India
+p186
+aVDepartment of Physics, Himachal Pradesh University, Shimla, Himachal Pradesh 171005, India
+p187
+aVDepartment of Physics, Himachal Pradesh University, Shimla, Himachal Pradesh 171005, India
+p188
+asVbibcode
+p189
+V2015PhyE...68....1K
+p190
+sVid
+p191
+V10707139
+p192
+sVtitle
+p193
+(lp194
+VA first principle study of encapsulated and functionalized silicon nanotube of chirality (6,6) with monoatomically thin metal wires of Ag, Au and Cu
+p195
+asa(dp196
+Vauthor
+p197
+(lp198
+VKwiatkowski, Jacek
+p199
+aVJabczynski, Jan Karol
+p200
+aVZendzian, Waldemar
+p201
+asVaff
+p202
+(lp203
+VInstitute of Optoelectronics, Military University of Technology, 2 Kaliskiego Street, 00-908 Warsaw, Poland
+p204
+aVInstitute of Optoelectronics, Military University of Technology, 2 Kaliskiego Street, 00-908 Warsaw, Poland
+p205
+aVInstitute of Optoelectronics, Military University of Technology, 2 Kaliskiego Street, 00-908 Warsaw, Poland
+p206
+asVbibcode
+p207
+V2015OptLT..67...93K
+p208
+sVid
+p209
+V9118570
+p210
+sVtitle
+p211
+(lp212
+VAn efficient continuous-wave and Q-switched single-pass two-stage Ho:YLF MOPA system
+p213
+asa(dp214
+Vauthor
+p215
+(lp216
+VYang, L. M.
+p217
+aVPan, C. Y.
+p218
+aVLu, F. P.
+p219
+aVChang, C. W.
+p220
+aVFeng, S. W.
+p221
+aVTu, L. W.
+p222
+asVaff
+p223
+(lp224
+VDepartment of Physics and Center for Nanoscience and Nanotechnology, National Sun Yat-Sen University, Kaohsiung 80424, Taiwan, ROC
+p225
+aVDepartment of Physics and Center for Nanoscience and Nanotechnology, National Sun Yat-Sen University, Kaohsiung 80424, Taiwan, ROC
+p226
+aVDepartment of Physics and Center for Nanoscience and Nanotechnology, National Sun Yat-Sen University, Kaohsiung 80424, Taiwan, ROC
+p227
+aVDepartment of Physics and Center for Nanoscience and Nanotechnology, National Sun Yat-Sen University, Kaohsiung 80424, Taiwan, ROC
+p228
+aVDepartment of Applied Physics, National University of Kaohsiung, Kaohsiung 81148, Taiwan, ROC
+p229
+aVDepartment of Physics and Center for Nanoscience and Nanotechnology, National Sun Yat-Sen University, Kaohsiung 80424, Taiwan, ROC
+p230
+asVbibcode
+p231
+V2015OptLT..67...72Y
+p232
+sVid
+p233
+V9118541
+p234
+sVtitle
+p235
+(lp236
+VAnti-reflection sub-wavelength structures design for InGaN-based solar cells performed by the finite-difference-time-domain (FDTD) simulation method
+p237
+asa(dp238
+Vauthor
+p239
+(lp240
+VWojtanowski, Jacek
+p241
+aVZygmunt, Marek
+p242
+aVMuzal, Micha\u0142
+p243
+aVKnysak, Piotr
+p244
+aVM\u0142odzianko, Andrzej
+p245
+aVGawlikowski, Andrzej
+p246
+aVDrozd, Tadeusz
+p247
+aVKopczy\u0144ski, Krzysztof
+p248
+aVMierczyk, Zygmunt
+p249
+aVKaszczuk, Miros\u0142awa
+p250
+aVTraczyk, Maciej
+p251
+aVGietka, Andrzej
+p252
+aVPiotrowski, Wies\u0142aw
+p253
+aVJakubaszek, Marcin
+p254
+aVOstrowski, Roman
+p255
+asVaff
+p256
+(lp257
+VInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p258
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p259
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p260
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p261
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p262
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p263
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p264
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p265
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p266
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p267
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p268
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p269
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p270
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
 p271
-(lp272
-VReprint of: Multiwavelength modeling the SED of supersoft X-ray sources III. RS Ophiuchi: The supersoft X-ray phase and beyond
+aVInstitute of Optoelectronics, Military University of Technology, 2 Sylwestra Kaliskiego Str., Warsaw 00-908, Poland
+p272
+asVbibcode
 p273
-asa(dp274
-Vid
+V2015OptLT..67...25W
+p274
+sVid
 p275
-V2085842
+V9118495
 p276
-sVauthor
+sVtitle
 p277
 (lp278
-VSkopal, A.
+VPerformance verification of a LIF-LIDAR technique for stand-off detection and classification of biological agents
 p279
-asVbibcode
-p280
-V2015NewA...36..128S
+asa(dp280
+Vauthor
 p281
-sVcitation_count
-p282
-I3
-sVtitle
+(lp282
+VGuo, Xiaoyang
 p283
-(lp284
-VMultiwavelength modeling the SED of supersoft X-ray sources. II. RS Ophiuchi: From the explosion to the SSS phase
+aVLu, Jun
+p284
+aVLi, Wenkai
 p285
-asa(dp286
-Vid
+aVXu, Yi
+p286
+aVLu, Xiaoming
 p287
-V2085813
+aVLeng, Yuxin
 p288
-sVauthor
+aVLi, Ruxin
 p289
-(lp290
-VSkopal, A.
-p291
-asVbibcode
+asVaff
+p290
+(lp291
+VState Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai 201800, China
 p292
-V2015NewA...36..116S
+aVState Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai 201800, China
 p293
-sVcitation_count
+aVState Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai 201800, China
 p294
-I3
-sVtitle
+aVState Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai 201800, China
 p295
-(lp296
-VMultiwavelength modelling the SED of supersoft X-ray sources I. The method and examples
+aVState Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai 201800, China
+p296
+aVState Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai 201800, China
 p297
-asa.
+aVState Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai 201800, China
+p298
+asVbibcode
+p299
+V2015OptLT..67....8G
+p300
+sVid
+p301
+V9118503
+p302
+sVtitle
+p303
+(lp304
+VChirped pulse Raman amplification in Ba(NO<SUB>3</SUB>)<SUB>2</SUB> crystals
+p305
+asa(dp306
+Vauthor
+p307
+(lp308
+VTamrin, K. F.
+p309
+aVNukman, Y.
+p310
+aVChoudhury, I. A.
+p311
+aVShirley, S.
+p312
+asVaff
+p313
+(lp314
+VDepartment of Mechanical Engineering, Faculty of Engineering, University of Malaya, 50603 Kuala Lumpur, Malaysia
+p315
+aVDepartment of Mechanical Engineering, Faculty of Engineering, University of Malaya, 50603 Kuala Lumpur, Malaysia
+p316
+aVDepartment of Mechanical Engineering, Faculty of Engineering, University of Malaya, 50603 Kuala Lumpur, Malaysia
+p317
+aVDepartment of Mechanical Engineering, Faculty of Engineering, University of Malaya, 50603 Kuala Lumpur, Malaysia
+p318
+asVbibcode
+p319
+V2015OptLE..67...57T
+p320
+sVid
+p321
+V10666124
+p322
+sVtitle
+p323
+(lp324
+VMultiple-objective optimization in precision laser cutting of different thermoplastics
+p325
+asa(dp326
+Vauthor
+p327
+(lp328
+VGhazali, Kamarul Hawari
+p329
+aVJadin, Mohd Shawal
+p330
+aVJie, Ma
+p331
+aVXiao, Rui
+p332
+asVaff
+p333
+(lp334
+VVision and Intelligent System Research Lab, Faculty of Electrical & Electronic Engineering, Universiti Malaysia Pahang, 26600 Pekan, Pahang, Malaysia
+p335
+aVSustainable Power, Electrical and Renewable Energy Research Group, Faculty of Electrical & Electronic Engineering, Universiti Malaysia Pahang, 26600 Pekan, Pahang, Malaysia
+p336
+aVVision and Intelligent System Research Lab, Faculty of Electrical & Electronic Engineering, Universiti Malaysia Pahang, 26600 Pekan, Pahang, Malaysia
+p337
+aVVision and Intelligent System Research Lab, Faculty of Electrical & Electronic Engineering, Universiti Malaysia Pahang, 26600 Pekan, Pahang, Malaysia
+p338
+asVbibcode
+p339
+V2015OptLE..67...49G
+p340
+sVid
+p341
+V10666129
+p342
+sVtitle
+p343
+(lp344
+VNovel automatic eye detection and tracking algorithm
+p345
+asa(dp346
+Vauthor
+p347
+(lp348
+VLiu, Kun
+p349
+aVZhao, Weixiong
+p350
+aVWang, Lei
+p351
+aVtan, Tu
+p352
+aVWang, Guishi
+p353
+aVZhang, Weijun
+p354
+aVGao, Xiaoming
+p355
+aVChen, Weidong
+p356
+asVaff
+p357
+(lp358
+VAnhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China
+p359
+aVAnhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China
+p360
+aVAnhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China
+p361
+aVAnhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China
+p362
+aVAnhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China
+p363
+aVAnhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China
+p364
+aVAnhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China
+p365
+aVLaboratoire de Physicochimie de l'Atmosphère, CNRS UMR 8101, Université du Littoral Côte d'Opale, 189A, Av. Maurice Schumann, 59140 Dunkerque, France
+p366
+asVbibcode
+p367
+V2015OptCo.340..126L
+p368
+sVid
+p369
+V10706749
+p370
+sVtitle
+p371
+(lp372
+VQuartz-enhanced photoacoustic spectroscopy of HCN from 6433 to 6613 cm<SUP>-1</SUP>
+p373
+asa(dp374
+Vbibcode
+p375
+V2015NewA...36..139S
+p376
+sVauthor
+p377
+(lp378
+VSkopal, A.
+p379
+asVaff
+p380
+(lp381
+VAstronomical Institute, Slovak Academy of Sciences, 059 60 Tatranská Lomnica, Slovakia
+p382
+asVtitle
+p383
+(lp384
+VReprint of: Multiwavelength modeling the SED of supersoft X-ray sources III. RS Ophiuchi: The supersoft X-ray phase and beyond
+p385
+asVcitation_count
+p386
+I0
+sVid
+p387
+V2085852
+p388
+sa(dp389
+Vbibcode
+p390
+V2015NewA...36..128S
+p391
+sVauthor
+p392
+(lp393
+VSkopal, A.
+p394
+asVaff
+p395
+(lp396
+VAstronomical Institute, Slovak Academy of Sciences, 059 60 Tatranská Lomnica, Slovakia; \u3009Visiting Astronomer: Astronomical Institut, Bamberg
+p397
+asVtitle
+p398
+(lp399
+VMultiwavelength modeling the SED of supersoft X-ray sources. II. RS Ophiuchi: From the explosion to the SSS phase
+p400
+asVcitation_count
+p401
+I3
+sVid
+p402
+V2085842
+p403
+sa(dp404
+Vbibcode
+p405
+V2015NewA...36..116S
+p406
+sVauthor
+p407
+(lp408
+VSkopal, A.
+p409
+asVaff
+p410
+(lp411
+VAstronomical Institute, Slovak Academy of Sciences, 059 60 Tatranská Lomnica, Slovakia; \u3009Visiting Astronomer: Astronomical Institut, Bamberg
+p412
+asVtitle
+p413
+(lp414
+VMultiwavelength modelling the SED of supersoft X-ray sources I. The method and examples
+p415
+asVcitation_count
+p416
+I3
+sVid
+p417
+V2085813
+p418
+sa.
