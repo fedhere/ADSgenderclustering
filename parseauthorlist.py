@@ -7,15 +7,35 @@ maxauth=3
 
 if __name__=='__main__':
 #read in list of names
-    pkl_file = open('name_list/female.pkl', 'rb') 
-    femalenames = pickle.load(pkl_file)
-    pkl_file = open('name_list/male.pkl', 'rb') 
-    malenames = pickle.load(pkl_file)
+#    pkl_file = open('name_list/female.pkl', 'rb') 
+#    femalenames = pickle.load(pkl_file)
+#    pkl_file = open('name_list/male.pkl', 'rb') 
+#    malenames = pickle.load(pkl_file)
+ 
+    femalenames=[]
 
-    for f in  sorted(np.array(([m for m in malenames if m.startswith('t') ]))):
-        print f
-    print 'thomas' in malenames
-    sys.exit()
+    filename = 'namedb/female_uniq.csv'
+    with open(filename, 'rb') as f:
+        reader = csv.reader(f)
+        try:
+            for row in reader:
+                femalenames.append(row[0].lower())
+        except csv.Error as e:
+            sys.exit('file %s, line %d: %s' % (filename, reader.line_num, e))
+
+    malenames=[]
+
+    filename = 'namedb/male_uniq.csv'
+    with open(filename, 'rb') as f:
+        reader = csv.reader(f)
+        try:
+            for row in reader:
+                malenames.append(row[0].lower())
+        except csv.Error as e:
+            sys.exit('file %s, line %d: %s' % (filename, reader.line_num, e))
+
+
+        print femalenames,malenames
     
     paperstats={'nauth':[],'ncite':[],'femaleratio':[]}
 
@@ -45,7 +65,10 @@ if __name__=='__main__':
         malecount=0
         
         for a in authors: 
-            first=a.split()[1].replace(',','').strip().lower()
+            try:
+                first=a.split()[1].replace(',','').strip().lower()
+            except:
+                continue
             if not '.' in first:
                 print "nauth,ncite",nauth,ncite,
                 print first
