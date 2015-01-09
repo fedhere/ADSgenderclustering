@@ -2,6 +2,7 @@ import csv
 import sys
 import numpy as np
 import cPickle
+import string as str
 
 maxInt = sys.maxsize
 decrement = True
@@ -15,7 +16,9 @@ def load_csv(file_name, skip_num, delimiter):
 	        if i < skip_num:
 	        	pass
 	        else:
-	        	name_list.append(row[0])
+	        	name = row[0]
+	        	name.replace('-', '') 
+	        	name_list.append(str.lower(name))
 	        i += 1
 	return name_list
 
