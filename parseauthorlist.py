@@ -1,6 +1,7 @@
 import os,sys
 import pylab as pl
 import pickle, pprint,csv
+import numpy as np
 
 maxauth=3
 
@@ -10,27 +11,33 @@ if __name__=='__main__':
     femalenames = pickle.load(pkl_file)
     pkl_file = open('name_list/male.pkl', 'rb') 
     malenames = pickle.load(pkl_file)
+
+    for f in  sorted(np.array(([m for m in malenames if m.startswith('t') ]))):
+        print f
+    print 'thomas' in malenames
+    sys.exit()
     
     paperstats={'nauth':[],'ncite':[],'femaleratio':[]}
 
     print len(femalenames),len(malenames)
 
 #reads in paper list
-    pkl_file = open('paperlist.p', 'rb')
+    pkl_file = open('papers_recent.pkl', 'rb')
     papers = pickle.load(pkl_file)
 
+    print papers[0]
     #    pprint.pprint(papers)
     print "list of %d papers"%len(papers)
 
     for ppr in papers:
         #parse paper info
         try:
-            ncite= ppr['citation_count']
+            ncite= ppr['number_of_citations']
         except:
             ncite=float('NaN')
             
-        nauth= len(ppr['author'])
-        authors=ppr['author'][:maxauth]
+        nauth= len(ppr['authors'])
+        authors=ppr['authors'][:maxauth]
         
 
 
@@ -38,7 +45,7 @@ if __name__=='__main__':
         malecount=0
         
         for a in authors: 
-            first=a.split()[1]
+            first=a.split()[1].replace(',','').strip().lower()
             if not '.' in first:
                 print "nauth,ncite",nauth,ncite,
                 print first
@@ -52,7 +59,14 @@ if __name__=='__main__':
             paperstats['nauth'].append(nauth)
             paperstats['ncite'].append(ncite)
 
-            print "ratios: females",femalecount, "males:", malecount, "femaleratio:",float(femalecount)/float(maxauth), "maleratio:", float(malecount)/float(maxauth)
+            print "ratios: females",femalecount, "males:", malecount, "femaleratio:"
+            if femalecount>0:
+                femaleratio=float(femalecount)/float(femalecount+malecount)
+                print femaleratio, "maleratio:", float(malecount)/float(maxauth)
+            else: 
+                femaleratio=float('NaN')
+                print femaleratio, "maleratio:", float(malecount)/float(maxauth)
+
             paperstats['femaleratio'].append(float(femalecount)/float(maxauth))            
  
         print ""
