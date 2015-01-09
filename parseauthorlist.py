@@ -10,7 +10,8 @@ if __name__=='__main__':
     femalenames = pickle.load(pkl_file)
     pkl_file = open('name_list/male.pkl', 'rb') 
     malenames = pickle.load(pkl_file)
-
+    
+    paperstats={'nauth':[],'ncite':[],'femaleratio':[]}
 
     print len(femalenames),len(malenames)
 
@@ -35,7 +36,7 @@ if __name__=='__main__':
 
         femalecount=0
         malecount=0
-
+        
         for a in authors: 
             first=a.split()[1]
             if not '.' in first:
@@ -48,7 +49,28 @@ if __name__=='__main__':
                     print 'MALE'
                     malecount+=1
                 else: print 'UNKNOWN'                
-            print "ratios",femalecount, malecount, float(femalecount)/float(maxauth), float(malecount)/float(maxauth)
+            paperstats['nauth'].append(nauth)
+            paperstats['ncite'].append(ncite)
+
+            print "ratios: females",femalecount, "males:", malecount, "femaleratio:",float(femalecount)/float(maxauth), "maleratio:", float(malecount)/float(maxauth)
+            paperstats['femaleratio'].append(float(femalecount)/float(maxauth))            
  
         print ""
+
+    for k in paperstats.iterkeys():
+        print k,len(paperstats[k])
+        
     
+    import pylab as plt
+    plt.figure()
+    plt.title("FEMALE RATION IN THE FIRST 3 AUTHORS")
+    plt.hist(paperstats['femaleratio'], color='SteelBlue')
+    plt.figure()
+    plt.ylabel ("female ratio")
+    plt.xlabel ("number of authors")
+    plt.scatter(paperstats['nauth'], paperstats['femaleratio'] )
+    plt.figure()
+    plt.ylabel ("female ratio")
+    plt.xlabel ("number of citations")
+    plt.scatter(paperstats['ncite'], paperstats['femaleratio'] )
+    plt.show()
