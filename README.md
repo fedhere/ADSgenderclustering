@@ -23,3 +23,5 @@ Notice that this result is obtained after counting female and male authors in th
 Notice also that _our sample is biassed in many ways_: for example, asian names cannot be associated with gender as easily as non-asian names, long author lists are likely to use initials and thus large collaborations are removed from our sample, and several other biases.
 
 ## There is a significant excess of both papers with no and with all three (100%) female lead authors, and a deficit of papers with a single female author compared to a random gender distribution!
+
+![](ADSgenderclustering.png)
